@@ -1,4 +1,4 @@
 # Rhino-FFB-Clone-3D_Printed
-3D print files, parts list and instructions to build a DIY version of the Rhino FFB Stick base using the VPForce motor kit
-
-Coming Soon
+Based on Mabo1972's original design.
+Adapted to 3d Print in Sunlu PLA+ and Carbon-x PETG.
+Full 3D model coming to include fasteners and all parts.
