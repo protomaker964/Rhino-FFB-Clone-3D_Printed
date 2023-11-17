@@ -1,5 +1,5 @@
 # Rhino-FFB-Clone-3D_Printed
-Based on Mabo1972's original design.
+Based on Mabo1972's original design. https://github.com/mabo1972/FFB-Joystick-Base-Plywood
 
 Adapted to 3d Print in Sunlu PLA+ and Carbon-x PETG.
 
